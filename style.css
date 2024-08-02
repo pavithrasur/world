@@ -168,7 +168,7 @@ cursor: pointer;
 {
     .head
     {
-        background-image: url(image/set.png);
+        background-image: url(image/set1.png);
         background-repeat:no-repeat;
         background-size: cover;
         width: 100vh;
@@ -181,7 +181,7 @@ cursor: pointer;
     transform: translate(-30%,-40%);
     position: absolute;
     font-size: 20px;
-    color: rgb(124, 30, 102);
+    color: rgb(228, 190, 68);
 }
 .sidbar
 {
